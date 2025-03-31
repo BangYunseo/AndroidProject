@@ -1,2 +1,5 @@
 # AndroidProject
-Android 프로젝트 모음
+
+- 모바일프로그래밍 실습 프로젝트 모음
+
+# 
