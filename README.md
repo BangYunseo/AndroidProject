@@ -27,6 +27,7 @@
 - ch08
 - ch09
 - ch10
+</details>
 
 <details>
     <summary>Project list
