@@ -1,11 +1,11 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.Ch11_JetPack" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.PlusApp" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
-    <style name="Theme.Ch11_JetPack" parent="Base.Theme.Ch11_JetPack" />
+    <style name="Theme.PlusApp" parent="Base.Theme.PlusApp" />
     <style name="ToolbarIconColor" parent="ThemeOverlay.AppCompat.ActionBar">
         <item name="colorControlNormal">#FFFFFF</item>
     </style>

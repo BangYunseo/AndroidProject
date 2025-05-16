@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PlusApp</string>
+    <string name="drawer_opened">Opened Drawer</string>
+    <string name="drawer_closed">Closed Drawer</string>
+    <string name="Two_Fragment">Two Fragment!</string>
+    <string name="Three_Fragment">Three Fragment!</string>
+</resources>
