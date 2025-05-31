@@ -13,7 +13,7 @@ class ReplyReceiver : BroadcastReceiver() {
         val replyTxt = RemoteInput.getResultsFromIntent(intent)?.getCharSequence("key_text_reply")
         Log.d("Yunseo", "replyText : $replyTxt")
         val manager = context.getSystemService(AppCompatActivity.NOTIFICATION_SERVICE)
-            as NotificationManager
+                as NotificationManager
         manager.cancel(11)
     }
 }

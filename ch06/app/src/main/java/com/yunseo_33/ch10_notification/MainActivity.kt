@@ -39,9 +39,9 @@ class MainActivity : AppCompatActivity() {
         binding.notificationButton.setOnClickListener {
             if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU){
                 if(ContextCompat.checkSelfPermission(
-                    this,
-                    "android.permission.POST_NOTIFICATION"
-                ) == PackageManager.PERMISSION_GRANTED){
+                        this,
+                        "android.permission.POST_NOTIFICATION"
+                    ) == PackageManager.PERMISSION_GRANTED){
                     noti()
                 } else {
                     permissionLauncher.launch(arrayOf("android.permission.POST_NOTIFICATIONS"))
