@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Ch12_Material" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.Ch12_Material" parent="Base.Theme.Ch12_Material" />
+    <style name="ToolbarIconColor" parent="ThemeOverlay.AppCompat.ActionBar">
+        <item name="colorControlNormal">#FFFFFF</item>
+    </style>
+</resources>
