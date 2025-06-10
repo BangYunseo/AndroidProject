@@ -37,11 +37,14 @@
 - ch02 [전화 앱 키패드](https://github.com/BangYunseo/AndroidProject/tree/main/ch02)
 - ch03 [시계 스톱워치](https://github.com/BangYunseo/AndroidProject/tree/main/ch03)
 - ch04 [메신저 앱 인트로](https://github.com/BangYunseo/AndroidProject/tree/main/ch04)
-- ch05 [카카오톡 알림](https://github.com/BangYunseo/AndroidProject/tree/main/ch05)
-- ch06
-- ch07
-- ch08
-- ch09
-- ch10
+- ch05 
+- ch06 [카카오톡 알림](https://github.com/BangYunseo/AndroidProject/tree/main/ch06)
+- ch07 [제트팩 화면 구성](https://github.com/BangYunseo/AndroidProject/tree/main/ch07)
+- ch08 [머터리얼 화면 구](https://github.com/BangYunseo/AndroidProject/tree/main/ch08)
+- ch09 [ToDoList 앱 구](https://github.com/BangYunseo/AndroidProject/tree/main/ch09)
+- ch10 [배터리 정보 앱 구현](https://github.com/BangYunseo/AndroidProject/tree/main/ch10)
+- ch11 [](https://github.com/BangYunseo/AndroidProject/tree/main/ch11)
+- ch12 [](https://github.com/BangYunseo/AndroidProject/tree/main/ch12)
+- ch13 [개선된 할 일 앱 구현](https://github.com/BangYunseo/AndroidProject/tree/main/ch13) 
 
 </details>
